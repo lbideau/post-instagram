@@ -1,0 +1,50 @@
+html{
+    background-color: black;
+}
+.div-principal{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+body{
+    width: 400px;
+    margin: 80px auto;
+    background-color: white;
+}
+.img-logo{
+    width: 60px;
+    height: 50px;
+}
+
+.img-text{
+    display: inline-flex;
+    width: 370px;
+    justify-content: flex-start;
+    align-items: center;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.three{
+    display: inline-flex;
+   padding-right: 5px;
+    justify-content: flex-start;
+    align-items: baseline;
+}
+.img-post{
+    width: 400px;
+    height: 350px;
+}
+
+.reacciones-descripcion{
+    padding: 0 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.description{
+    padding: 0 10px;
+}
+p {
+    text-align: justify;
+}
